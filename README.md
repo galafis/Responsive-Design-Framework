@@ -4,10 +4,6 @@
 
 ### Professional Responsive Design Framework by Gabriel Demetrios Lafis
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Stylelint](https://img.shields.io/badge/Stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)](https://stylelint.io/)
 
 This repository presents a professional and modern **Responsive Design Framework** developed by Gabriel Demetrios Lafis. It is designed to facilitate the creation of highly responsive and visually appealing web interfaces, ensuring optimal user experience across various devices and screen sizes. The framework emphasizes clean code, modularity, and ease of use, making it an ideal solution for developers seeking a robust foundation for their web projects.
 
@@ -95,10 +91,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Framework de Design Responsivo Profissional por Gabriel Demetrios Lafis
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![Stylelint](https://img.shields.io/badge/Stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)](https://stylelint.io/)
 
 Este repositório apresenta um **Framework de Design Responsivo** profissional e moderno desenvolvido por Gabriel Demetrios Lafis. Ele foi projetado para facilitar a criação de interfaces web altamente responsivas e visualmente atraentes, garantindo uma experiência de usuário ideal em vários dispositivos e tamanhos de tela. O framework enfatiza código limpo, modularidade e facilidade de uso, tornando-o uma solução ideal para desenvolvedores que buscam uma base robusta para seus projetos web.
 
